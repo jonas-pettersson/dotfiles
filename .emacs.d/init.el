@@ -4,7 +4,6 @@
 ;; ---------------------
 ;; -- Global Settings --
 ;; ---------------------
-(add-to-list 'load-path "~/.emacs.d")
 (require 'cl)
 (require 'ido)
 (require 'ffap)
